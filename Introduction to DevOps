@@ -1,0 +1,112 @@
+# Introduction to DevOps 🚀
+
+A beginner-friendly guide to understanding **DevOps concepts, practices, tools, and lifecycle**.  
+This repository supports my blog published on Hashnode and is intended for **students, freshers, and IT professionals** starting their DevOps journey.
+
+---
+
+## 📌 What is DevOps?
+
+DevOps is a combination of **Development (Dev)** and **Operations (Ops)** that focuses on:
+- Faster software delivery
+- Improved collaboration
+- Automation and reliability
+- Continuous improvement
+
+DevOps is not just a role or tool — it is a **culture and mindset**.
+
+---
+
+## 🎯 Objectives of This Repository
+
+- Explain DevOps in **simple language**
+- Help beginners understand **core DevOps concepts**
+- Share **real-world DevOps practices**
+- Provide a strong foundation for **DevOps careers**
+
+---
+
+## 🔁 DevOps Lifecycle
+
+1. Plan  
+2. Develop  
+3. Build  
+4. Test  
+5. Release  
+6. Deploy  
+7. Operate  
+8. Monitor  
+
+This lifecycle enables **continuous integration and continuous delivery (CI/CD)**.
+
+---
+
+## 🛠️ DevOps Tools Covered
+
+| Category | Tools |
+|--------|------|
+| Version Control | Git, GitHub |
+| CI/CD | Jenkins, GitHub Actions |
+| Containers | Docker |
+| Orchestration | Kubernetes |
+| Cloud | AWS, Azure |
+| IaC | Terraform |
+| Monitoring | CloudWatch, Prometheus, Grafana |
+
+---
+
+## 👨‍💻 Who Should Read This?
+
+- Beginners learning DevOps  
+- Developers moving to DevOps roles  
+- Cloud & IT support engineers  
+- Anyone preparing for DevOps interviews  
+
+---
+
+## 📖 Blog Reference
+
+📌 Read the full blog here:  
+👉 **[Introduction to DevOps – Beginner’s Guide](#)**  
+*(Replace `#` with your Hashnode blog link)*
+
+---
+
+## 🚀 Getting Started
+
+No prerequisites required.  
+Basic knowledge of:
+- Linux
+- Git
+- Cloud fundamentals  
+will be helpful but not mandatory.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to:
+- Improve documentation
+- Add examples
+- Fix typos
+- Share learning resources
+
+---
+
+## 📬 Connect With Me
+
+- **Hashnode:** *(add your profile link)*  
+- **LinkedIn:** *(add your LinkedIn link)*  
+- **GitHub:** *(this repository)*  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, share, and modify it.
+
+---
+
+⭐ If you find this repository helpful, please **star it** and share with others!
